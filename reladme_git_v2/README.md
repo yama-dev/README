@@ -1,9 +1,8 @@
-# README Template
+# README
 
 ## 概要
 
-仕事、プライベートで使用するREADMEファイルを  
-テンプレート化してあります。  
+◯◯◯
 
 <br>
 
@@ -13,18 +12,15 @@
 
 #### このリポジトリ`README`をダウンロードして、必要なテンプレートを複製して活用してください。
 
-#### ダウンロード https://github.com/yama-dev/readme/releases/latest  
+#### ダウンロード https://github.com/yama-dev/readme/releases/latest
 
 <br>
 
 ## READMEサンプル一覧
 
- | 名前              | 内容                             | 備考 | 
- | ---               | ---                              | ---  | 
- | `reladme_git`     | git リポジトリ作成用             |      | 
- | `reladme_git_v2`  | git リポジトリ作成用 バージョン2 |      | 
- | `reladme_work`    | 仕事での案件用                   |      | 
- | `reladme_work_v2` | 仕事での案件用 バージョン2       |      | 
+| 名前 | 内容 | 備考 | 
+| ---  | ---  | ---  | 
+|      |      |      | 
 
 <br>
 
