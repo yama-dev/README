@@ -36,7 +36,7 @@
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://mit-license.org/)
 
 <br>
 
